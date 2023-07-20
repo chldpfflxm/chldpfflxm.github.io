@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "크앙의 개발일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "크앙"
 description              : "An amazing website."
 url                      : "https://chldpfflxm.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
